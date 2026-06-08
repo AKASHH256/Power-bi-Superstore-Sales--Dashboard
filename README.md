@@ -17,4 +17,4 @@ Interactive Power BI dashboard analyzing sales and profit performance across reg
 - Data Visualization
 
 ## Dashboard Preview
- -See image file uploaded in this repository.
+(See image file uploaded in this repository)
